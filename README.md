@@ -1,12 +1,18 @@
-# Idris Ghamid (إدريس غامد) 
-**Founder & Lead Software Architect at IDRISIUM Corp**
+# Idris Ghamid
 
-Idris Ghamid is a software developer and the founder of IDRISIUM Corp, a tech entity focused on building offline-first, privacy-centric applications. He is best known as the lead developer and architect behind the **Al-Furkan Quran App**, a highly-rated open-source Islamic application built with Flutter, BLoC, and Hive.
+**Founder & Lead Software Architect @ IDRISIUM Corp**
 
-## 🚀 Projects & Ecosystem
-- **Al-Furkan App:** An open-source, offline-first Quranic experience.
-- **IDRISIUM Forge:** A dynamic platform for community-driven app ideas.
-- **IDRISIUM AI:** A privacy-focused AI mobile assistant.
+Idris Ghamid is a Software Architect and Full-Stack Developer specializing in high-performance mobile and web applications. As the founder of **IDRISIUM Corp**, he focuses on Clean Architecture, scalable systems, and integrating advanced Artificial Intelligence into modern digital products.
 
-## 🛠️ Tech Stack
-Flutter | Dart | Python | FastAPI | Firebase | Gemini AI
+### 💻 Technical Expertise
+- **Mobile Engineering:** Flutter, Dart, Native Android (Kotlin).
+- **Web Development:** React, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind.
+- **Architecture & Design:** Clean Architecture, System Design, Minimalist UI/UX.
+- **AI Integration:** Google Gemini, LLM implementations, Smart Automation.
+
+### 🏢 Organization
+Idris Ghamid leads the engineering team at [IDRISIUM Corp](https://github.com/IDRISIUMCorp) — an elite software development agency building premium digital solutions.
+
+### 📫 Connect
+- **LinkedIn:** [Idris Ghamid](https://www.linkedin.com/in/idris-ghamid/)
+- **Website:**[IDRISIUM Agency](http://idrisium.linkpc.net/)
