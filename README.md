@@ -1,6 +1,6 @@
 # Idris Ghamid | إدريس غامد
 
-**Founder & Lead Software Architect @ IDRISIUM Corp**
+**Founder & Lead Software Architect @[IDRISIUM Corp](https://github.com/IDRISIUMCorp)**
 
 Idris Ghamid is a Software Architect and Full-Stack Developer specializing in high-performance mobile and web applications. As the founder of **IDRISIUM Corp**, he focuses on Clean Architecture, scalable systems, and integrating advanced Artificial Intelligence into modern digital products.
 
