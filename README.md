@@ -2,7 +2,7 @@
 
 **Founder & Lead Software Architect @ IDRISIUM Corp**
 
-Idris Ghamid is a Software Architect and Full-Stack Developer specializing in high-performance mobile and web applications. As the founder of **IDRISIUM Corp**, he focuses on Clean Architecture, scalable systems, and integrating advanced Artificial Intelligence into modern digital products.
+Idris Ghamid | إدريس غامد is a Software Architect and Full-Stack Developer specializing in high-performance mobile and web applications. As the founder of **IDRISIUM Corp**, he focuses on Clean Architecture, scalable systems, and integrating advanced Artificial Intelligence into modern digital products.
 
 ### 💻 Technical Expertise
 - **Mobile Engineering:** Flutter, Dart, Native Android (Kotlin).
