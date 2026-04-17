@@ -1,4 +1,4 @@
-# Idris Ghamid
+# Idris Ghamid | إدريس غامد
 
 **Founder & Lead Software Architect @ IDRISIUM Corp**
 
