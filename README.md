@@ -11,8 +11,8 @@ idris ghamid is a Software Architect and Full-Stack Developer specializing in hi
 - **AI Integration:** Google Gemini, LLM implementations, Smart Automation.
 
 ### 🏢 Organization
-Idris Ghamid leads the engineering team at [IDRISIUM Corp](https://github.com/IDRISIUMCorp) — an elite software development agency building premium digital solutions.
+idris ghamid leads the engineering team at [IDRISIUM Corp](https://github.com/IDRISIUMCorp) — an elite software development agency building premium digital solutions.
 
 ### 📫 Connect
-- **LinkedIn:** [Idris Ghamid](https://www.linkedin.com/in/idris-ghamid/)
+- **LinkedIn:** [idris ghamid](https://www.linkedin.com/in/idris-ghamid/)
 - **Website:**[IDRISIUM Agency](http://idrisium.linkpc.net/)
