@@ -48,7 +48,7 @@ idris ghamid leads the engineering team at [IDRISIUM Corp](https://github.com/ID
   https://t.me/IDRV72
 
 - **Pinterest**
-  https://pin.it/1iMOebrDw
+  https://www.pinterest.com/idrisghamid
 
 ---
 
