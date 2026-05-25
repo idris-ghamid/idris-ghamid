@@ -50,6 +50,9 @@ A software initiative focused on building reliable, scalable, and modern digital
 → Developer tooling  
 → AI-integrated systems  
 
+**Corp WebSite**
+http://idrisium.linkpc.net/
+
 ---
 
 ## 🌐 Links
@@ -62,9 +65,3 @@ A software initiative focused on building reliable, scalable, and modern digital
 - Reddit: https://www.reddit.com/u/IdrisGhamid
 - Telegram: https://t.me/IDRV72
 - Pinterest: https://www.pinterest.com/idrisghamid
-
----
-
-## 📫 Contact
-
-Website: http://idrisium.linkpc.net/
