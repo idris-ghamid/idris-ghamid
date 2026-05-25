@@ -42,7 +42,7 @@ LLMs • Gemini API • Workflow automation
 
 ---
 
-## 🏢 [IDRISIUM Corp] https://github.com/IDRISIUMCorp/)
+## 🏢 [IDRISIUM Corp] (https://github.com/IDRISIUMCorp/)
 
 A software initiative focused on building reliable, scalable, and modern digital systems.
 
