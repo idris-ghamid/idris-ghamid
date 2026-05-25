@@ -1,6 +1,6 @@
 # Idris Ghamid | إدريس غامد
 
-**Founder @ [IDRISIUM Corp](https://github.com/IDRISIUMCorp) Programmer building mobile apps, web systems & games (Unity)**
+**Founder @ [IDRISIUM Corp](https://github.com/IDRISIUMCorp) Programmer building mobile apps, web systems & games (Unity) & Editor (AE, Photoshop)**
 
 ---
 
