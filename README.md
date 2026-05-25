@@ -36,9 +36,17 @@ My work spans mobile, web, and developer tooling with a strong focus on product-
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=idris-ghamid&show_icons=true&theme=tokyonight)
+### 🔹 Option 1 (Recommended - Stable)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idris-ghamid&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idris-ghamid&layout=compact&theme=tokyonight)
+### 🔹 Option 2 (Clean Minimal)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idris-ghamid&show_icons=true&theme=transparent)
+
+---
+
+## 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idris-ghamid&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
