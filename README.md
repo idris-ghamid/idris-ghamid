@@ -1,23 +1,28 @@
 # Idris Ghamid | إدريس غامد
 
-**Software Architect & Founder at [IDRISIUM Corp](https://github.com/IDRISIUMCorp)**
-
-Building scalable software systems, developer tools, and AI-powered products across mobile and web.
+**Founder @ [IDRISIUM Corp](https://github.com/IDRISIUMCorp) Programmer building mobile apps, web systems & games (Unity)**
 
 ---
 
-## 🧭 About
+## 🧭 Overview
 
-I design and build production-grade systems with a focus on:
+I build scalable software systems, developer tools, and AI-powered products across mobile and web.
 
-- Clean architecture
-- Scalability & performance
-- Developer experience (DX)
-- Practical AI integration
+I also work on game development and creative digital production.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Focus Areas
+
+- Mobile & Web Development
+- AI Systems & Automation
+- Developer Tools & Infrastructure
+- Game Development (Unity)
+- Creative Editing (After Effects, Photoshop)
+
+---
+
+## 🧠 Tech Stack
 
 **Mobile**
 Flutter • Dart • Kotlin
@@ -25,37 +30,27 @@ Flutter • Dart • Kotlin
 **Web**
 React • Next.js • JavaScript (ES6+) • HTML • CSS • Tailwind CSS
 
-**Architecture**
-System Design • Clean Architecture • Modular Systems
+**AI**
+LLMs • Gemini API • Automation Workflows
 
-**AI & Automation**
-Large Language Models (LLMs) • Gemini API • Workflow Automation
-
----
-
-## 🚀 What I Build
-
-- Developer tools & infrastructure
-- Cross-platform mobile applications
-- Modern web platforms (SaaS-style systems)
-- AI-powered features & automation layers
-- High-performance backend-driven products
+**Game Dev**
+Unity
 
 ---
 
 ## 🏢 IDRISIUM Corp
 
-A software initiative focused on building reliable, scalable, and modern digital systems.
+Building modern digital products, developer tools, and AI-driven systems.
 
-→ Mobile & Web products  
-→ Developer tooling  
-→ AI-integrated systems  
+→ Mobile & Web apps  
+→ Developer tools  
+→ AI systems & automation  
 
 **Website:** http://idrisium.linkpc.net/
 
 ---
 
-## 🌐 Links
+## 🌐 Connect
 
 - LinkedIn: https://www.linkedin.com/in/idris-ghamid
 - X: https://x.com/IdrisGhamid
