@@ -1,56 +1,66 @@
 # Idris Ghamid | إدريس غامد
 
-**Founder & Lead Software Architect at [IDRISIUM Corp](https://github.com/IDRISIUMCorp)**
+**Software Architect & Founder at [IDRISIUM Corp](https://github.com/IDRISIUMCorp)**
 
-I design and build high-performance software systems focused on clean architecture, scalability, and real-world AI integration.  
-My work spans mobile, web, and developer tooling with a strong focus on product-grade engineering.
-
----
-
-## 🧠 Core Stack
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Building scalable software systems, developer tools, and AI-powered products across mobile and web.
 
 ---
 
-## 🚀 Focus Areas
+## 🧭 About
 
-- Scalable mobile applications
-- Modern web platforms
+I focus on designing and building production-grade systems with a strong emphasis on:
+- Clean architecture
+- Scalability & performance
+- Developer experience (DX)
+- Practical AI integration
+
+---
+
+## ⚙️ Tech Stack
+
+**Mobile**
+Flutter • Dart • Kotlin
+
+**Web**
+React • Next.js • JavaScript (ES6+) • HTML • CSS • Tailwind
+
+**Architecture**
+System Design • Clean Architecture • Modular Systems
+
+**AI & Automation**
+LLMs • Gemini API • Workflow automation
+
+---
+
+## 🚀 What I Build
+
 - Developer tools & infrastructure
-- AI-powered systems & automation
-- Clean architecture & system design
+- Cross-platform mobile applications
+- Modern web platforms (SaaS-style systems)
+- AI-powered features & automation layers
+- High-performance backend-driven products
 
 ---
 
 ## 🏢 IDRISIUM Corp
 
-[IDRISIUM Corp](https://github.com/IDRISIUMCorp) is my engineering initiative focused on building reliable, scalable, and production-ready software systems across mobile, web, and developer tools.
+A software initiative focused on building reliable, scalable, and modern digital systems.
+
+→ Mobile & Web products  
+→ Developer tooling  
+→ AI-integrated systems  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-### 🔹 Option 1 (Recommended - Stable)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idris-ghamid&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=idris-ghamid&show_icons=true&hide_border=true&theme=transparent)
 
-### 🔹 Option 2 (Clean Minimal)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idris-ghamid&show_icons=true&theme=transparent)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idris-ghamid&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
-## 🔥 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idris-ghamid&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🌐 Connect
+## 🌐 Links
 
 - LinkedIn: https://www.linkedin.com/in/idris-ghamid
 - X: https://x.com/IdrisGhamid
