@@ -42,21 +42,13 @@ LLMs • Gemini API • Workflow automation
 
 ---
 
-## 🏢 IDRISIUM Corp
+## 🏢 IDRISIUM Corp [https://github.com/IDRISIUMCorp/]
 
 A software initiative focused on building reliable, scalable, and modern digital systems.
 
 → Mobile & Web products  
 → Developer tooling  
 → AI-integrated systems  
-
----
-
-## 📊 GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=idris-ghamid&show_icons=true&hide_border=true&theme=transparent)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idris-ghamid&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
