@@ -8,7 +8,8 @@ Building scalable software systems, developer tools, and AI-powered products acr
 
 ## 🧭 About
 
-I focus on designing and building production-grade systems with a strong emphasis on:
+I design and build production-grade systems with a focus on:
+
 - Clean architecture
 - Scalability & performance
 - Developer experience (DX)
@@ -22,13 +23,13 @@ I focus on designing and building production-grade systems with a strong emphasi
 Flutter • Dart • Kotlin
 
 **Web**
-React • Next.js • JavaScript (ES6+) • HTML • CSS • Tailwind
+React • Next.js • JavaScript (ES6+) • HTML • CSS • Tailwind CSS
 
 **Architecture**
 System Design • Clean Architecture • Modular Systems
 
 **AI & Automation**
-LLMs • Gemini API • Workflow automation
+Large Language Models (LLMs) • Gemini API • Workflow Automation
 
 ---
 
@@ -50,8 +51,7 @@ A software initiative focused on building reliable, scalable, and modern digital
 → Developer tooling  
 → AI-integrated systems  
 
-**Corp WebSite**
-http://idrisium.linkpc.net/
+**Website:** http://idrisium.linkpc.net/
 
 ---
 
