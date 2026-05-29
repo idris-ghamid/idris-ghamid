@@ -10,6 +10,8 @@ I build scalable software systems, developer tools, and AI-powered products acro
 
 I also work on game development and creative digital production.
 
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=idris-ghamid&custom_title=My%20Stats&bg_color=000000&title_color=ffffff&text_color=8e8e93&icon_color=ffffff&ring_color=ffffff&border_color=1c1c1e&hide_border=false&locale=en&border_radius=5&card_width=466&show_icons=true&include_all_commits=true&text_bold=true)](https://github.com/idris-ghamid)
+
 ---
 
 ## ⚙️ Focus Areas
