@@ -54,6 +54,7 @@ Building modern digital products, developer tools, and AI-driven systems.
 
 ## 🌐 Connect
 
+- MySite: https://idris-ghamid.linkpc.net/
 - LinkedIn: https://www.linkedin.com/in/idris-ghamid
 - X: https://x.com/IdrisGhamid
 - Instagram: https://www.instagram.com/idris.ghamid
