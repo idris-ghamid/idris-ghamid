@@ -54,12 +54,20 @@ Building modern digital products, developer tools, and AI-driven systems.
 
 ## 🌐 Connect
 
-- MySite: https://idris-ghamid.linkpc.net/
-- LinkedIn: https://www.linkedin.com/in/idris-ghamid
-- X: https://x.com/IdrisGhamid
-- Instagram: https://www.instagram.com/idris.ghamid
-- Threads: https://www.threads.com/@idris.ghamid
-- TikTok: https://www.tiktok.com/@idris.ghamid
-- Reddit: https://www.reddit.com/u/IdrisGhamid
-- Telegram: https://t.me/IDRV72
-- Pinterest: https://www.pinterest.com/idrisghamid
+* MySite: [https://idris-ghamid.linkpc.net/](https://idris-ghamid.linkpc.net/)
+* LinkedIn: [https://www.linkedin.com/in/idris-ghamid](https://www.linkedin.com/in/idris-ghamid)
+* GitHub: [https://github.com/idris-ghamid](https://github.com/idris-ghamid)
+* GitLab: [https://gitlab.com/idris-ghamid](https://gitlab.com/idris-ghamid)
+* Pub.dev Publisher: [https://pub.dev/publishers/idris-ghamid.linkpc.net/](https://pub.dev/publishers/idris-ghamid.linkpc.net/)
+* Dev.to: [https://dev.to/idris-ghamid](https://dev.to/idris-ghamid)
+* Medium: [https://medium.com/@idris.ghamid](https://medium.com/@idris.ghamid)
+* X: [https://x.com/IdrisGhamid](https://x.com/IdrisGhamid)
+* Bluesky: [https://bsky.app/profile/idris-ghamid.bsky.social](https://bsky.app/profile/idris-ghamid.bsky.social)
+* Instagram: [https://www.instagram.com/idris.ghamid](https://www.instagram.com/idris.ghamid)
+* Threads: [https://www.threads.com/@idris.ghamid](https://www.threads.com/@idris.ghamid)
+* TikTok: [https://www.tiktok.com/@idris.ghamid](https://www.tiktok.com/@idris.ghamid)
+* Snapchat: [https://www.snapchat.com/add/idris.ghamid](https://www.google.com/search?q=https://www.snapchat.com/add/idris.ghamid)
+* Reddit: [https://www.reddit.com/u/IdrisGhamid](https://www.reddit.com/u/IdrisGhamid)
+* Pinterest: [https://www.pinterest.com/idrisghamid](https://www.pinterest.com/idrisghamid)
+* Telegram: [https://t.me/IDRV72](https://www.google.com/search?q=https%3A%2F%2Ft.me%2FIDRV72)
+* Gravatar: [https://gravatar.com/idrisghamid](https://www.google.com/search?q=https%3A%2F%2Fgravatar.com%2Fidrisghamid)
