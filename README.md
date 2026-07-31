@@ -71,3 +71,6 @@ Building modern digital products, developer tools, and AI-driven systems.
 * Pinterest: [https://www.pinterest.com/idrisghamid](https://www.pinterest.com/idrisghamid)
 * Telegram: [https://t.me/IDRV72](https://www.google.com/search?q=https%3A%2F%2Ft.me%2FIDRV72)
 * Gravatar: [https://gravatar.com/idrisghamid](https://gravatar.com/idrisghamid)
+* CodeSandBox: https://codesandbox.io/u/idris-ghamid
+* CodePen: https://codepen.io/idris-ghamid
+* StackOverFlow: https://stackoverflow.com/users/32990054/idris-ghamid
