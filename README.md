@@ -54,7 +54,7 @@ Building modern digital products, developer tools, and AI-driven systems.
 
 ## 🌐 Connect
 
-* MySite: [https://idris-ghamid.linkpc.net/](https://idris-ghamid.linkpc.net/)
+* MySite: [https://idris-ghamid.linkpc.net/](https://idris-ghamid.vercel.app/)
 * LinkedIn: [https://www.linkedin.com/in/idris-ghamid](https://www.linkedin.com/in/idris-ghamid)
 * GitHub: [https://github.com/idris-ghamid](https://github.com/idris-ghamid)
 * GitLab: [https://gitlab.com/idris-ghamid](https://gitlab.com/idris-ghamid)
